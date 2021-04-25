@@ -2,6 +2,7 @@
 
 void main()
 {
+	//실수형 변수
 	float a = 3.141592f;
 	double b = 3.141592;
 	
